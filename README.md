@@ -1,4 +1,6 @@
-# tiete_connect
+# client server chat application using java
+ - This was an college project and it was finished in 2018
+ # Some screenshots
 ![EXIBIÇÃO01](https://user-images.githubusercontent.com/11250089/210637509-081302c0-6bf9-4c64-9abe-a8e0a852a59d.png)
 ![ScreenShot_20180320204058](https://user-images.githubusercontent.com/11250089/210638294-8474c714-5183-4dbe-9df2-98eed4892025.png)
 ![exibição04](https://user-images.githubusercontent.com/11250089/210637515-28221f74-5830-464b-8106-2bd700be3efa.png)
